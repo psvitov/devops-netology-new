@@ -1,1 +1,4 @@
-# devops-netology-new
+DevOps Netology
+
+Pavel Svitov
+
